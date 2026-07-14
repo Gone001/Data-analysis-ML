@@ -15,10 +15,14 @@ df["Revenue"]=df["Quantity"]*df["Price"]
 print(df)
 By_cat=df.groupby("Category")["Revenue"].sum()
 print(By_cat.sort_values(ascending=False))
-print(f"Total revenue is : {df["Revenue"].sum()} ")
+print(f"Total revenue is : {df['Revenue'].sum()} ")
 
 df.to_csv("cleaned_datasales.csv")
 By_cat.to_csv("Revenue_by_category.csv")
 
 dn=pd.read_csv("cleaned_datasales.csv")
 print(dn)
+print(df.sample(5))
+print(df.info())
+print(df.shape)
+print(df.describe())
