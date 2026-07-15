@@ -1,0 +1,55 @@
+OrderID,Date,Category,Product,Quantity,Price,Month,Revenue
+1001,2026-01-05,Electronics,USB Cable,3,120,January,360
+1002,2026-01-06,Stationery,Notebook,5,45,January,225
+1003,2026-01-06,Electronics,Mouse,2,350,January,700
+1004,2026-01-10,Grocery,Rice 5kg,1,320,January,320
+1005,2026-01-12,Stationery,Pen Pack,0,60,January,0
+1007,2026-02-03,Grocery,Cooking Oil,2,180,February,360
+1008,2026-02-05,Stationery,Marker,4,30,February,120
+1009,2026-02-14,Electronics,USB Cable,3,120,February,360
+1010,2026-02-18,Grocery,Sugar 1kg,2,55,February,110
+1011,2026-03-01,Electronics,Mouse,1,350,March,350
+1012,2026-03-03,Stationery,Notebook,10,45,March,450
+1013,2026-03-07,Grocery,Rice 5kg,0,320,March,0
+1014,2026-03-09,Electronics,Charger,2,250,March,500
+1015,2026-03-15,Stationery,Pen Pack,6,60,March,360
+1016,2026-02-05,Stationery,Pen,5,2,February,10
+1017,2026-02-11,Stationery,Folder,8,4,February,32
+1018,2026-02-10,Stationery,Pen,8,2,February,16
+1019,2026-02-06,Furniture,Cabinet,7,220,February,1540
+1020,2026-02-07,Grocery,Milk,4,3,February,12
+1021,2026-02-18,Grocery,Rice,3,30,February,90
+1022,2026-02-17,Grocery,Rice,8,30,February,240
+1023,2026-02-16,Furniture,Cabinet,3,220,February,660
+1024,2026-03-24,Electronics,Monitor,4,180,March,720
+1025,2026-03-05,Electronics,Keyboard,4,40,March,160
+1026,2026-03-02,Electronics,Mouse,3,25,March,75
+1027,2026-03-25,Electronics,Monitor,2,180,March,360
+1028,2026-03-23,Stationery,Folder,3,4,March,12
+1029,2026-03-27,Grocery,Oil,3,12,March,36
+1030,2026-03-24,Stationery,Pen,8,2,March,16
+1031,2026-03-14,Electronics,Mouse,8,25,March,200
+1032,2026-04-18,Electronics,Laptop,4,550,April,2200
+1033,2026-04-02,Electronics,Laptop,4,550,April,2200
+1034,2026-04-21,Furniture,Cabinet,2,220,April,440
+1035,2026-04-03,Grocery,Milk,2,3,April,6
+1036,2026-04-24,Electronics,Mouse,8,25,April,200
+1037,2026-04-18,Grocery,Sugar,4,6,April,24
+1038,2026-04-06,Furniture,Table,5,120,April,600
+1039,2026-04-17,Grocery,Rice,8,30,April,240
+1040,2026-05-12,Stationery,Notebook,8,5,May,40
+1041,2026-05-11,Grocery,Rice,4,30,May,120
+1042,2026-05-20,Grocery,Rice,3,30,May,90
+1043,2026-05-05,Stationery,Notebook,1,5,May,5
+1044,2026-05-05,Electronics,Monitor,5,180,May,900
+1045,2026-05-24,Electronics,Mouse,5,25,May,125
+1046,2026-05-03,Electronics,Keyboard,2,40,May,80
+1047,2026-05-24,Furniture,Desk,6,150,May,900
+1048,2026-06-16,Furniture,Desk,3,150,June,450
+1049,2026-06-01,Furniture,Chair,2,45,June,90
+1050,2026-06-08,Furniture,Cabinet,4,220,June,880
+1051,2026-06-11,Grocery,Rice,5,30,June,150
+1052,2026-06-15,Grocery,Milk,3,3,June,9
+1053,2026-06-09,Stationery,Notebook,7,5,June,35
+1054,2026-06-23,Furniture,Table,2,120,June,240
+1055,2026-06-15,Furniture,Table,1,120,June,120

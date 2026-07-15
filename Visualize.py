@@ -1,0 +1,13 @@
+import matplotlib.pyplot as md
+import pandas as pd
+data=pd.read_csv("sales_clean.csv")
+print(data)
+by_cat=data.groupby("Category")["Revenue"].sum()
+print(by_cat)
+md.bar(by_cat.index,by_cat.values,color="blue",width=0.6,edgecolor='black',linewidth=0.5,alpha=0.5,label="Revenue")
+
+md.title("Revenue by category")
+md.xlabel("Category")
+md.ylabel("Revenue")
+md.legend()
+md.show()
